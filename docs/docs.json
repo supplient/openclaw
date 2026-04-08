@@ -305,6 +305,10 @@
       "destination": "/concepts/architecture"
     },
     {
+      "source": "/concepts/runtime",
+      "destination": "/concepts/runtime-architecture"
+    },
+    {
       "source": "/audio",
       "destination": "/nodes/audio"
     },
@@ -1048,6 +1052,7 @@
               {
                 "group": "Fundamentals",
                 "pages": [
+                  "concepts/runtime-architecture",
                   "concepts/architecture",
                   "concepts/agent",
                   "concepts/agent-loop",
